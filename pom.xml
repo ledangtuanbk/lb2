@@ -4,7 +4,7 @@
 
     <groupId>org.ldt</groupId>
     <artifactId>lb2</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>lb2 library</name>
     <description>lb2 test</description>
@@ -22,7 +22,7 @@
         <connection>scm:git:git://github.com/ledangtuanbk/lb2.git</connection>
         <developerConnection>scm:git:git@github.com:ledangtuanbk/lb2.git</developerConnection>
         <url>https://github.com/ledangtuanbk/lb2</url>
-        <tag>lb2-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
